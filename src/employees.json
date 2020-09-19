@@ -1,0 +1,16 @@
+[{
+        "first_name": "Frodo",
+        "last_name": "Baggins",
+        "id": 1
+    },
+    {
+        "first_name": "Samwise",
+        "last_name": "Gamgee",
+        "id": 2
+    },
+    {
+        "first_name": "Gandalf",
+        "last_name": "Mithrandir",
+        "id": 3
+    }
+]
